@@ -1,3 +1,7 @@
 {
-    "CMS": true
+    "Core": true,
+    "Auth": true,
+    "Organization": true,
+    "Role": true,
+    "Audit": true
 }
